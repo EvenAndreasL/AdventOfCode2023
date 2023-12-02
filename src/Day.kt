@@ -1,3 +1,7 @@
+import Day01.println
+import Day01.readInput
+
+
 fun main() {
     fun part1(input: List<String>): Int {
         return input.size
